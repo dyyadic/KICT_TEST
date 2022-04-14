@@ -1,0 +1,4 @@
+2022년 4월 14일
+- 수업내용
+-Github Drive 설치해 봤음
+-Git clone, add, coomit 사용해 봤음
